@@ -12,6 +12,7 @@ The repository features a variety of analytics and machine learning projects.
   > 4.Multiple vision comparison  
   > 5.Mapping  
   > 6.Finding insights  
+  > 7.Creating new features  
 
 ## Projects:
 | №| Title and link | About project | Skills and Tools |  
